@@ -16,7 +16,7 @@ This repository documents my journey of solving daily LeetCode problems.
 - `Medium/` – Problems tagged as medium
 - `Hard/` – Problems tagged as hard
 
-**🚀 Goals**
+## 🚀 Goals
 
  - Solve at least 1 LeetCode problem daily
  - Strengthen DSA & problem-solving skills
