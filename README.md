@@ -2,10 +2,12 @@
 
 This repository documents my journey of solving daily LeetCode problems.
 
-Each solution is:
+**Each solution is:**
 
  ✅ Well-structured and beginner-friendly
+ 
  ✅ Categorized by difficulty level
+ 
  ✅ Aimed at long-term learning & interview preparation
 
 ## 📁 Folder Structure
@@ -14,7 +16,7 @@ Each solution is:
 - `Medium/` – Problems tagged as medium
 - `Hard/` – Problems tagged as hard
 
-🚀 Goals
+**🚀 Goals**
 
  - Solve at least 1 LeetCode problem daily
  - Strengthen DSA & problem-solving skills
