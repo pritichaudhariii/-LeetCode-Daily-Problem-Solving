@@ -8,4 +8,4 @@ class Solution:
             hashmap[key].append(s)
 
         return list(hashmap.values())
-        
+       
