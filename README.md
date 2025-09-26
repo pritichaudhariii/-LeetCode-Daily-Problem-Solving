@@ -4,7 +4,7 @@ This repository documents my journey of solving daily LeetCode problems.
 
 **Each solution is:**
 
- ✅ Well-structured and beginner-friendly
+ ✅ Well-structured and beginner-friendly.
  
  ✅ Categorized by difficulty level
  
