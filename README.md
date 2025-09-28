@@ -6,7 +6,7 @@ This repository documents my journey of solving daily LeetCode problems.
 
  ✅ Well-structured and beginner-friendly
  
- ✅ Categorized by difficulty level
+ ✅ Categorized by difficulty level.
  
  ✅ Aimed at long-term learning & interview preparation
 
