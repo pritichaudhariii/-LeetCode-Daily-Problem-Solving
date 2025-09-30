@@ -14,7 +14,7 @@ This repository documents my journey of solving daily LeetCode problems.
 
 - `Easy/` – Problems tagged as easy
 - `Medium/` – Problems tagged as medium
-- `Hard/` – Problems tagged as hard
+- `Hard/` – Problems tagged as hard.
 
 ## 🚀 Goals
 
